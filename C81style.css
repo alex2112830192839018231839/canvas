@@ -1,0 +1,20 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund 
+{
+background-image: url("bg1.jpg");
+background-position: center ;
+background-size: cover;
+}
+
+#canvas{
+	background-color: rgb(114, 108, 108);
+}
+span c:\Users\fernando_2\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\code\electron-sandbox\workbench\workbench.html
+{
+font-size: 20px;
+}
